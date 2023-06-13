@@ -4,13 +4,13 @@
 function Click1(LinkAF, stc)     
 {
 
-window.location.href = "https://apkrium.com/jXZZ9h?s1="+stc;
+window.location.href = LinkAF+'?source='+stc+'#join';
   
 }
   
 function Click2(stc)      
 {
 	
-window.location.href = "https://apkrium.com/jXZZ9h?s1="+stc;
+window.location.href = "https://www.datingfinder.cf/"+stc;  
  
 }
