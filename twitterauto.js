@@ -4,13 +4,13 @@
 function Click1(LinkAF, stc)     
 {
 
-window.location.href = "https://apkrium.com/jXZZ9h?s1="+stc;
+window.location.href = "https://apkrium.com/jXZZ9h?sub_id_1="+stc;
   
 }
   
 function Click2(stc)      
 {
 	
-window.location.href = "https://apkrium.com/jXZZ9h?s1="+stc;
+window.location.href = "https://apkrium.com/jXZZ9h?sub_id_1="+stc;
  
 }
